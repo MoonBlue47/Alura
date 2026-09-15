@@ -53,7 +53,3 @@ Este repositório reúne aplicações e desafios práticos voltados ao aprendiza
 ## 💻 Como Executar
 
 Por serem aplicações puramente estáticas em HTML/JS, basta clonar o repositório e abrir os arquivos no navegador
-
-1. Clone o projeto:
-   ```bash
-   git clone [https://github.com/MoonBlue47/Alura.git](https://github.com/MoonBlue47/Alura.git)
